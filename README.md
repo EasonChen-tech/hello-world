@@ -1,2 +1,2 @@
 # hello-world
-This is my first traval in Github
+This is my first travel in Github
